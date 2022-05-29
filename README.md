@@ -1,6 +1,6 @@
 ### Oi, me chamo Carlos 👋
 
-- 📖 Estudante de Java
+- 📖 Desenvolvedor Java
 - 📧 Contate-me no email: carlos-84@live.com
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos-do-vale-a0a997160/">
